@@ -1,3 +1,3 @@
 # Домашнее задание Модуль 1
 ## Архитектура Аналитического Решения
-![DWH](D:\data-engineering-learning\DE-101\Module01\АРХИТЕКТУРА АНАЛИТИЧЕСКОГО РЕШЕНИЯ.drawio)
+![DWH](https://github.com/pashavill/data-engineering-learning/blob/main/DE-101/Module01/DWH.drawio)
